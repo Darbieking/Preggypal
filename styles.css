@@ -41,9 +41,8 @@ p {
     background-color: #8952ff;
 }
 .footer{
-    margin-top: 10rem;
     max-width: 50%;
-    margin: 10rem auto 5rem auto;
+    margin: 5rem auto 5rem auto;
 }
 
 @media (max-width : 1016px) {
