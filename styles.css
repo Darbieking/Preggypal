@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #FFEAEA;
+    background-color: #ffeaea;
 }
 #hero{
     margin-top: 5rem;
@@ -35,16 +35,20 @@ p {
     width: 75%;
     height:700px;
     
-    
 }
 
 .btn-dark{
     background-color: #8952ff;
 }
+.footer{
+    margin-top: 10rem;
+    max-width: 50%;
+    margin: 10rem auto 5rem auto;
+}
 
 @media (max-width : 1016px) {
    #hero{
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-bottom: 5rem;
    }
 
@@ -72,6 +76,10 @@ p {
         width: 90%;
         height:600px;
         
+    }
+    .footer{
+        margin-top: 5rem;
+        max-width: 100%;
     }
  
 }
